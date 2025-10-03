@@ -2,7 +2,7 @@
 <h1 align="center">Hello! I'm Rishitha Janjirala 👋</h1>
 
 <p align="center">
-  Crafting Innovative Solutions in Software Development, Data Analysis & Embedded Systems
+  Crafting Innovative Solutions in Software Development, Data Analysis 
 </p>
 
 <p align="center">
@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKTREE_URL"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:rishithajanjirala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -22,7 +21,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 Pursuing **B.Tech in Electronics and Communication** at **Sridevi Women’s Engineering College, Hyderabad** (2023–2026)  
-- 📊 Passionate about **Embedded Systems, Data Visualization, and Databases**  
+- 📊 Passionate about ** Data Visualization and Databases**  
 - 💡 Skilled in **Python, Java, MySQL, PostgreSQL, MongoDB, Power BI, Excel, Selenium Automation**  
 - 🌱 Currently learning **Data Structures & Algorithms** and **Web Development**  
 - 💌 Reach me at: **rishithajanjirala@gmail.com**  
@@ -33,27 +32,27 @@
 ## 🛠️ Tech Stack & Tools  
 
 ### 🌐 Web Development  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" />
   <img src="https://skillicons.dev/icons?i=css" height="40" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
 </p>
 
 ### 🗄️ Databases  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
 </p>
 
 ### 💻 Programming Languages  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="40" />
   <img src="https://skillicons.dev/icons?i=java" height="40" />
 </p>
 
 ### 📊 Tools & Technologies  
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" />
   <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" height="40" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" />
@@ -93,12 +92,4 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishithaJanjirala&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishithaJanjirala&layout=compact&theme=tokyonight" height="150"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishithaJanjirala&theme=tokyonight" height="150"/>
-</p>
