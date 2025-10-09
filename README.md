@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rishitha-janjirala-b9976a245"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/rishitha_janjirala/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:rishithajanjirala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://github.com/rishithajanjirala3"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/rishitha_janjirala/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
@@ -30,22 +30,19 @@
 ---
 
 ## 🛠️ Tech Stack & Tools  
-
-### 🌐 Web Development  
+ 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" />
   <img src="https://skillicons.dev/icons?i=css" height="40" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
 </p>
 
-### 🗄️ Databases  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
 </p>
 
-### 💻 Programming Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="40" />
   <img src="https://skillicons.dev/icons?i=java" height="40" />
@@ -84,10 +81,10 @@
 
 ## 🌐 Let's Connect
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="YOUR_GITHUB_URL"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://www.linkedin.com/in/rishitha-janjirala-b9976a245"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/rishithajanjirala3L"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
   <a href="mailto:rishithajanjirala@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="40"/></a>
+  <a href=""https://leetcode.com/u/rishitha_janjirala/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="40"/></a>
 </p>
 
 ---
