@@ -74,7 +74,7 @@
 ---
 
 ## 🏆 Achievements
-- ✅ Solved **50+ problems** on LeetCode & GeeksforGeeks  
+- ✅ Solved **80+ problems** on LeetCode & GeeksforGeeks  
 - 🎯 Participated in **ACM technical events** at VNR VJIET  
 
 ---
